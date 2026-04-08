@@ -1,13 +1,16 @@
 # 📊 Business Data Analytics Project
 
 ## 🚀 Overview
-This project analyzes retail e-commerce data to uncover insights into customer behavior, revenue trends, and regional performance.
+This project analyses retail e-commerce data to uncover insights into customer behaviour, revenue trends, and regional performance.
 
 ## 🛠 Tech Stack
 - Python (Pandas, NumPy)
 - SQL (MySQL)
 - Power BI
 - GitHub
+
+## ❓ Business Problem
+The goal of this project is to analyse retail sales data to understand revenue drivers, customer behaviour, and regional performance to support business decision-making.
 
 ## 🔄 Workflow
 1. Data Cleaning using Python
