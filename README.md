@@ -36,5 +36,10 @@ This project analyzes retail e-commerce data to uncover insights into customer b
 - Top customers contribute significantly to revenue
 - Sales show monthly fluctuations (seasonality)
 
+## 💼 Business Impact
+- Helps identify high-performing regions for targeted marketing
+- Enables customer segmentation based on revenue contribution
+- Supports decision-making using revenue trends
+  
 ## 👨‍💻 Author
 Thanmai Konda
